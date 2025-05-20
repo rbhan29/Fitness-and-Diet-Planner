@@ -1,4 +1,3 @@
-
 # 🏋️‍♀️ Fitness and Diet Planner
 
 A sleek and efficient web application built with modern technologies to help users track their fitness goals, plan diets, and stay motivated on their health journey.
